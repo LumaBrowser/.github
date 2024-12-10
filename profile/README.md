@@ -3,3 +3,5 @@
 <br />
 <br />
 <a href="https://katniny.github.io/meowser/">Website</a> • <a>Download (coming soon!)</a> • <a href="https://katniny.github.io/meowser/release-notes">Release Notes</a>
+<br />
+(We're still working on a logo, please bare with us 😅)
