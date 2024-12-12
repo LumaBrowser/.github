@@ -4,4 +4,6 @@
 <br />
 <a href="https://katniny.github.io/meowser/">Website</a> • <a>Download (coming soon!)</a> • <a href="https://katniny.github.io/meowser/release-notes">Release Notes</a>
 <br />
-(We're still working on a logo, please bare with us 😅)
+<br />
+Our logo was made by wassupgeorgiie! 
+<br />Follow her on Instagram 👉 https://instagram.com/wassupgeorgiie/ (she does amazing photography work if you're interested in that!)
